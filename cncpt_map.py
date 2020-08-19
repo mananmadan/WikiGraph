@@ -281,4 +281,3 @@ plt.title("spectral")
 plt.show()
 '''
 
-draw()
