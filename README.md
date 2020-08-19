@@ -24,8 +24,8 @@ from cncpt_map import draw
 ## Ouputs
 
 - **Scrum**
-![scrum_graph](pics/scrum.png)
+![scrum_graph](output/scrum.png)
 
 - **Engineering**
-![engineering](pics/engineering.png)
+![engineering](output/engineering.png)
 
